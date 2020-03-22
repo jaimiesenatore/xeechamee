@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thairaing.wonderroute.co.kr/sitemap.xml
